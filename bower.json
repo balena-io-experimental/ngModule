@@ -1,0 +1,22 @@
+{
+  "name": "ngModule",
+  "version": "0.0.1",
+  "authors": [
+    "Alexandros Marinos <alexandros@rulemotion.com>"
+  ],
+  "description": "Syntactic sugar for angular.js / requirejs integration with a focus on incremental structure",
+  "main": "ngModule.coffee",
+  "keywords": [
+    "angular.js",
+    "requirejs",
+    "module"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
